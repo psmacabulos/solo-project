@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', function (event) {
    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
 
   var disqus_config = function () {
-    this.page.url = 'http://127.0.0.1:5500/index.html' // Replace PAGE_URL with your page's canonical URL variable
+    this.page.url = 'https://github.com/psmacabulos/solo-project/index.html' // Replace PAGE_URL with your page's canonical URL variable
     this.page.identifier = 'index' // Replace PAGE_IDENTIFIER with your page's unique identifier variable
   }
 
